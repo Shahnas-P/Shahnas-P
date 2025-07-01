@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Netflix-GPT**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **MERN**
 
