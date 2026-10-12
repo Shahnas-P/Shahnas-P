@@ -1,30 +1,105 @@
-![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Hi 👋, I'm Shahnas P</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right"  alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+# Hi, I'm Shahnas P 👋
 
+### Full Stack Developer | React.js • Node.js • MongoDB • TypeScript
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnas-p&label=Profile%20views&color=0e75b6&style=flat" alt="shahnas-p" /> </p>
+I'm a Full Stack Developer from India with 3 years of experience building web applications using the MERN stack. I enjoy developing responsive user interfaces, designing REST APIs, and building backend services.
 
-- 🔭 I’m currently working on **Netflix-GPT**
+Currently exploring **Model Context Protocol (MCP)**, TypeScript-based server development, and **gRPC** for service-to-service communication.
 
-- 🌱 I’m currently learning **Typescript**
+- 🔭 Currently working on: MCP server development and backend services
+- 🌱 Currently learning: TypeScript, MCP, and backend architecture
+- 💻 Core stack: React.js, Node.js, Express.js, MongoDB
+- 🔌 Exploring: MCP tools, gRPC, and AI integrations
+- 💬 Ask me about: JavaScript, React, Node.js, Express, and MongoDB
+- 🌐 Portfolio: [shahnas.vercel.app](https://shahnas.vercel.app/)
+- 📫 Email: [shahnasp117@gmail.com](mailto:shahnasp117@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/shahnas-p](https://linkedin.com/in/shahnas-p)
+- 🧩 LeetCode: [leetcode.com/shahnasshaan](https://www.leetcode.com/shahnasshaan)
 
-- 💬 Ask me about **MERN**
+---
 
-- 📫 How to reach me **shahnasp117@gmail.com**
+### 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shahnas-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnas-p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shahnasshaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahnasshaan" height="30" width="40" /></a>
+**Frontend**
+- React.js, JavaScript, HTML5, CSS3
+- Tailwind CSS, Sass/SCSS, Bootstrap
+- Redux, React Router
+
+**Backend**
+- Node.js, Express.js
+- REST API development and integration
+- TypeScript
+- MCP client/server development
+- gRPC client/server implementation
+
+**Databases**
+- MongoDB, Mongoose
+
+**Tools & Platforms**
+- Git, GitHub, Postman
+- Firebase, Vite
+- Vercel, Render
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. MCP Server & Client
+Exploring Model Context Protocol by building a TypeScript-based MCP client/server setup and implementing tools for interacting with customer data.
+
+**Highlights**
+- Implemented custom MCP tools
+- Built customer search and filtering functionality
+- Practiced client-server communication and tool execution
+
+**Tech:** TypeScript, Node.js, MCP, Zod
+
+[View Repository](YOUR_MCP_REPOSITORY_URL)
+
+#### 2. Live ISS Tracker
+A full-stack application that retrieves International Space Station location data and stores historical positions for retrieval.
+
+**Highlights**
+- Fetches live ISS location data
+- Stores location history in MongoDB
+- Provides APIs for current position and recent location history
+- Handles API failures and historical data cleanup
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+
+[View Repository](YOUR_ISS_TRACKER_REPOSITORY_URL)
+
+#### 3. Task Management API
+A Node.js and Express backend for creating and managing tasks using MongoDB.
+
+**Highlights**
+- REST API development
+- Task creation and data validation
+- MongoDB integration
+- Modular routes, controllers, and models
+
+**Tech:** Node.js, Express.js, MongoDB, Mongoose
+
+[View Repository](YOUR_TASK_API_REPOSITORY_URL)
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahnas-p&show_icons=true&hide_border=true" alt="Shahnas's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnas-p&layout=compact&hide_border=true" alt="Most used programming languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnas-p&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnas-p&show_icons=true&locale=en&layout=compact" alt="shahnas-p" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnas-p&show_icons=true&locale=en" alt="shahnas-p" /></p>
+### 🤝 Let's Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnas-p&" alt="shahnas-p" /></p>
+I'm interested in collaborating on full-stack applications, backend development, and projects involving modern developer tools.
+
+Feel free to connect with me or explore my repositories!
+
