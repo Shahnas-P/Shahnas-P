@@ -72,7 +72,7 @@ A TypeScript-based MCP client/server project exploring custom tools and client-s
 
 **Tech:** TypeScript · Node.js · MCP · Zod
 
-🔗 **Repository:** [Add your MCP repository URL](YOUR_MCP_REPOSITORY_URL)
+🔗 **Repository:** [Add your MCP repository URL](https://github.com/Shahnas-P/MCP-)
 
 ### 2. Live ISS Tracker
 A full-stack application that retrieves International Space Station location data and stores historical positions for retrieval.
@@ -84,7 +84,7 @@ A full-stack application that retrieves International Space Station location dat
 
 **Tech:** React.js · Node.js · Express.js · MongoDB
 
-🔗 **Repository:** [Add your ISS Tracker repository URL](YOUR_ISS_TRACKER_REPOSITORY_URL)
+🔗 **Repository:** [Add your ISS Tracker repository URL](https://github.com/Shahnas-P/ISS-Tracker)
 
 ### 3. gRPC Client & Server
 A learning project exploring gRPC for service-to-service communication through a client and server implementation.
@@ -95,7 +95,7 @@ A learning project exploring gRPC for service-to-service communication through a
 
 **Tech:** Node.js · gRPC · Protocol Buffers
 
-🔗 **Repository:** [Add your gRPC repository URL](YOUR_GRPC_REPOSITORY_URL)
+
 
 ---
 
