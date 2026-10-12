@@ -2,7 +2,7 @@
 
 <!-- Replace this with a banner image hosted in your repository, for example: assets/github-banner.png -->
 <div align="center">
-  <img src="banner.png" alt="Shahnas P - Full Stack Developer" width="100%" />
+  <img src="banner1.png" alt="Shahnas P - Full Stack Developer" width="100%" />
 </div>
 
 # Hi, I'm Shahnas P 👋
